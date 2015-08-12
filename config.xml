@@ -2,18 +2,16 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "com.Ecampus.Ecampusmobile"
         versionCode = "390"
         version   = "2.0">
     <name>E-Campus ITC-ILO</name>
 
     <description>
-        Moodle Mobile official app
+        E-Campus Mobile official app
     </description>
 
-    <author href="http://moodle.com" email="mobile@moodle.com">
-        Moodle Pty Ltd
-    </author>
+  
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
         <string>2.0</string>
